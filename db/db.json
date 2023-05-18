@@ -1,0 +1,764 @@
+{
+  "posts": [],
+  "today": [
+    {
+      "id": 258941,
+      "name": "Тор",
+      "ageRating": 12,
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "description": "Эпическое приключение происходит как на нашей планете Земля, так и в королевстве богов Асгарде. В центре истории - Могучий Тор, сильный, но высокомерный воин, чьи безрассудные поступки возрождают древнюю войну в Асгарде. Тора отправляют в ссылку на Землю, лишают сил и заставляют жить среди обычных людей в качестве наказания...",
+      "movieLength": 110,
+      "budget": {
+        "value": 150000000,
+        "currency": "$"
+      },
+      "genres": [
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "фэнтези"
+        },
+        {
+          "name": "приключения"
+        }
+      ],
+      "persons": [
+        [
+          {
+            "id": 1300401,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1300401.jpg",
+            "name": "Крис Хемсворт"
+          },
+          {
+            "id": 24285,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_24285.jpg",
+            "name": "Натали Портман"
+          },
+          {
+            "id": 553143,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_553143.jpg",
+            "name": "Том Хиддлстон"
+          },
+          {
+            "id": 8968,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_8968.jpg",
+            "name": "Энтони Хопкинс"
+          },
+          {
+            "id": 11661,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_11661.jpg",
+            "name": "Стеллан Скарсгард"
+          },
+          {
+            "id": 539520,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_539520.jpg",
+            "name": "Кэт Деннингс"
+          }
+        ],
+        [
+          {
+            "id": 98834,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_98834.jpg",
+            "name": "Патрик Дойл"
+          }
+        ],
+        [],
+        [
+          {
+            "id": 8886,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_8886.jpg",
+            "name": "Кеннет Брана"
+          }
+        ]
+      ],
+      "premiere": {
+        "world": "2011-04-17T00:00:00.000Z",
+        "russia": "2011-04-28T00:00:00.000Z"
+      },
+      "rating": {
+        "kp": 7.094,
+        "imdb": 7,
+        "filmCritics": 6.7,
+        "russianFilmCritics": 80,
+        "await": null
+      },
+      "year": 2011,
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/embed/uHBnrJowBZE",
+            "name": "Thor - Trailer 2 (OFFICIAL)",
+            "site": "youtube",
+            "type": "TRAILER"
+          },
+          {
+            "url": "https://www.youtube.com/embed/JOddp-nlNvQ",
+            "name": "Thor - Trailer (OFFICIAL)",
+            "site": "youtube",
+            "type": "TRAILER"
+          },
+          {
+            "url": "https://www.youtube.com/embed/YVTUeXhFbJ8",
+            "name": "Трейлер к фильму Тор (2011) дублированный",
+            "site": "youtube",
+            "type": "TRAILER"
+          }
+        ],
+        "teasers": []
+      },
+      "votes": {
+        "kp": 423931,
+        "imdb": 864763,
+        "filmCritics": 293,
+        "russianFilmCritics": 10,
+        "await": 24060
+      },
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/258941.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_258941.jpg"
+      },
+      "dateStart": "2023-05-01T12:41:00.000Z",
+      "dateEnd": "2023-05-31T12:41:00.000Z"
+    }
+  ],
+  "soon": [],
+  "tabs": [
+    {
+      "id": 1,
+      "name": "Сейчас в кино",
+      "tab": "today"
+    },
+    {
+      "id": 2,
+      "name": "Скоро на экранах",
+      "tab": "soon"
+    }
+  ],
+  "news": [
+    {
+      "id": 122,
+      "date": "05.05.2023",
+      "src": "http://localhost:3000/img/card1.jpg",
+      "title": "Стражи Галактики. Часть 3 - С 11 МАЯ (12+)",
+      "text": "<p>Полюбившиеся всем супергерои пытаются наладить жизнь в Забвении. Однако совсем скоро отголоски бурного прошлого Ракеты переворачивают их жизни с ног на голову. Питер Квилл, до сих пор не оправившийся от потери Гаморы, должен сплотить вокруг себя команду, чтобы спасти Ракету. Если Стражи не справятся, это будет означать их конец.</p>",
+      "url": "/news/122"
+    },
+    {
+      "id": 123,
+      "date": "05.05.2023",
+      "src": "http://localhost:3000/img/card1.jpg",
+      "title": "Стражи Галактики. Часть 3 - С 11 МАЯ (12+)",
+      "text": "<p>Полюбившиеся всем супергерои пытаются наладить жизнь в Забвении. Однако совсем скоро отголоски бурного прошлого Ракеты переворачивают их жизни с ног на голову. Питер Квилл, до сих пор не оправившийся от потери Гаморы, должен сплотить вокруг себя команду, чтобы спасти Ракету. Если Стражи не справятся, это будет означать их конец.</p>",
+      "url": "/news/123"
+    },
+    {
+      "id": 124,
+      "date": "05.05.2023",
+      "src": "http://localhost:3000/img/card1.jpg",
+      "title": "Стражи Галактики. Часть 3 - С 11 МАЯ (12+)",
+      "text": "<p>Полюбившиеся всем супергерои пытаются наладить жизнь в Забвении. Однако совсем скоро отголоски бурного прошлого Ракеты переворачивают их жизни с ног на голову. Питер Квилл, до сих пор не оправившийся от потери Гаморы, должен сплотить вокруг себя команду, чтобы спасти Ракету. Если Стражи не справятся, это будет означать их конец.</p>",
+      "url": "/news/124"
+    },
+    {
+      "id": 125,
+      "date": "05.05.2023",
+      "src": "http://localhost:3000/img/card1.jpg",
+      "title": "Стражи Галактики. Часть 3 - С 11 МАЯ (12+)",
+      "text": "<p>Полюбившиеся всем супергерои пытаются наладить жизнь в Забвении. Однако совсем скоро отголоски бурного прошлого Ракеты переворачивают их жизни с ног на голову. Питер Квилл, до сих пор не оправившийся от потери Гаморы, должен сплотить вокруг себя команду, чтобы спасти Ракету. Если Стражи не справятся, это будет означать их конец.</p>",
+      "url": "/news/125"
+    },
+    {
+      "id": 126,
+      "date": "05.05.2023",
+      "src": "http://localhost:3000/img/card1.jpg",
+      "title": "Стражи Галактики. Часть 3 - С 11 МАЯ (12+)",
+      "text": "<p>Полюбившиеся всем супергерои пытаются наладить жизнь в Забвении. Однако совсем скоро отголоски бурного прошлого Ракеты переворачивают их жизни с ног на голову. Питер Квилл, до сих пор не оправившийся от потери Гаморы, должен сплотить вокруг себя команду, чтобы спасти Ракету. Если Стражи не справятся, это будет означать их конец.</p>",
+      "url": "/news/126"
+    }
+  ],
+  "footer": {
+    "name_project": "ООО «Баргузин Синема»",
+    "copyright": "© 2021 – ",
+    "pay": [
+      {
+        "id": 11,
+        "src": "http://localhost:3000/svg/visa.svg"
+      },
+      {
+        "id": 12,
+        "src": "http://localhost:3000/svg/mir.svg"
+      },
+      {
+        "id": 13,
+        "src": "http://localhost:3000/svg/master.svg"
+      },
+      {
+        "id": 14,
+        "src": "http://localhost:3000/svg/visa.svg"
+      },
+      {
+        "id": 15,
+        "src": "http://localhost:3000/svg/mir.svg"
+      },
+      {
+        "id": 16,
+        "src": "http://localhost:3000/svg/master.svg"
+      }
+    ],
+    "links": [
+      {
+        "id": 1,
+        "name": "Вакансии",
+        "url": "/",
+        "disabled": false
+      },
+      {
+        "id": 2,
+        "name": "Рекламодателям",
+        "url": "/",
+        "disabled": false
+      },
+      {
+        "id": 3,
+        "name": "Партнеры",
+        "url": "/",
+        "disabled": false
+      },
+      {
+        "id": 4,
+        "name": "Контакты",
+        "url": "/",
+        "disabled": false
+      },
+      {
+        "id": 5,
+        "name": "Карта сайта",
+        "url": "/",
+        "disabled": false
+      }
+    ],
+    "socials": {
+      "text": "Мы в социальных сетях",
+      "links": [
+        {
+          "id": 1,
+          "url": "/vk.com",
+          "src": "/svg/vk.svg"
+        }
+      ]
+    }
+  },
+  "movies": [
+    {
+      "id": 258941,
+      "name": "Тор",
+      "ageRating": 12,
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "description": "Эпическое приключение происходит как на нашей планете Земля, так и в королевстве богов Асгарде. В центре истории - Могучий Тор, сильный, но высокомерный воин, чьи безрассудные поступки возрождают древнюю войну в Асгарде. Тора отправляют в ссылку на Землю, лишают сил и заставляют жить среди обычных людей в качестве наказания...",
+      "movieLength": 110,
+      "budget": {
+        "value": 150000000,
+        "currency": "$"
+      },
+      "genres": [
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "фэнтези"
+        },
+        {
+          "name": "приключения"
+        }
+      ],
+      "persons": [
+        [
+          {
+            "id": 1300401,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_1300401.jpg",
+            "name": "Крис Хемсворт"
+          },
+          {
+            "id": 24285,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_24285.jpg",
+            "name": "Натали Портман"
+          },
+          {
+            "id": 553143,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_553143.jpg",
+            "name": "Том Хиддлстон"
+          },
+          {
+            "id": 8968,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_8968.jpg",
+            "name": "Энтони Хопкинс"
+          },
+          {
+            "id": 11661,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_11661.jpg",
+            "name": "Стеллан Скарсгард"
+          },
+          {
+            "id": 539520,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_539520.jpg",
+            "name": "Кэт Деннингс"
+          }
+        ],
+        [
+          {
+            "id": 98834,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_98834.jpg",
+            "name": "Патрик Дойл"
+          }
+        ],
+        [],
+        [
+          {
+            "id": 8886,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_8886.jpg",
+            "name": "Кеннет Брана"
+          }
+        ]
+      ],
+      "premiere": {
+        "world": "2011-04-17T00:00:00.000Z",
+        "russia": "2011-04-28T00:00:00.000Z"
+      },
+      "rating": {
+        "kp": 7.094,
+        "imdb": 7,
+        "filmCritics": 6.7,
+        "russianFilmCritics": 80,
+        "await": null
+      },
+      "year": 2011,
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/embed/uHBnrJowBZE",
+            "name": "Thor - Trailer 2 (OFFICIAL)",
+            "site": "youtube",
+            "type": "TRAILER"
+          },
+          {
+            "url": "https://www.youtube.com/embed/JOddp-nlNvQ",
+            "name": "Thor - Trailer (OFFICIAL)",
+            "site": "youtube",
+            "type": "TRAILER"
+          },
+          {
+            "url": "https://www.youtube.com/embed/YVTUeXhFbJ8",
+            "name": "Трейлер к фильму Тор (2011) дублированный",
+            "site": "youtube",
+            "type": "TRAILER"
+          }
+        ],
+        "teasers": []
+      },
+      "votes": {
+        "kp": 423931,
+        "imdb": 864763,
+        "filmCritics": 293,
+        "russianFilmCritics": 10,
+        "await": 24060
+      },
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/258941.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_258941.jpg"
+      }
+    },
+    {
+      "id": 535341,
+      "name": "1+1",
+      "ageRating": 16,
+      "countries": [
+        {
+          "name": "Франция"
+        }
+      ],
+      "description": "Пострадав в результате несчастного случая, богатый аристократ Филипп нанимает в помощники человека, который менее всего подходит для этой работы, – молодого жителя предместья Дрисса, только что освободившегося из тюрьмы. Несмотря на то, что Филипп прикован к инвалидному креслу, Дриссу удается привнести в размеренную жизнь аристократа дух приключений.",
+      "movieLength": 112,
+      "budget": {
+        "value": 9500000,
+        "currency": "€"
+      },
+      "genres": [
+        {
+          "name": "драма"
+        },
+        {
+          "name": "комедия"
+        },
+        {
+          "name": "биография"
+        }
+      ],
+      "persons": [
+        [
+          {
+            "id": 71427,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_71427.jpg",
+            "name": "Франсуа Клюзе"
+          },
+          {
+            "id": 41644,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_41644.jpg",
+            "name": "Омар Си"
+          },
+          {
+            "id": 57174,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_57174.jpg",
+            "name": "Анн Ле Ни"
+          },
+          {
+            "id": 868557,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_868557.jpg",
+            "name": "Одри Флеро"
+          },
+          {
+            "id": 541041,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_541041.jpg",
+            "name": "Жозефин де Мо"
+          },
+          {
+            "id": 445,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_445.jpg",
+            "name": "Клотильд Молле"
+          }
+        ],
+        [
+          {
+            "id": 590648,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_590648.jpg",
+            "name": "Людовико Эйнауди"
+          }
+        ],
+        [],
+        [
+          {
+            "id": 382906,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_382906.jpg",
+            "name": "Оливье Накаш"
+          }
+        ]
+      ],
+      "premiere": {
+        "world": "2011-09-23T00:00:00.000Z",
+        "russia": "2012-04-26T00:00:00.000Z"
+      },
+      "rating": {
+        "kp": 8.805,
+        "imdb": 8.5,
+        "filmCritics": 6.8,
+        "russianFilmCritics": 100,
+        "await": null
+      },
+      "year": 2011,
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/embed/0RqDiYnFxTk",
+            "name": "The Intouchables / Intouchables (2011) - Trailer (English subtitles)",
+            "site": "youtube",
+            "type": "TRAILER"
+          },
+          {
+            "url": "https://www.youtube.com/embed/34WIbmXkewU",
+            "name": "The Intouchables Official Trailer #1 (2012) HD Movie",
+            "site": "youtube",
+            "type": "TRAILER"
+          }
+        ],
+        "teasers": []
+      },
+      "votes": {
+        "kp": 1571449,
+        "imdb": 877853,
+        "filmCritics": 130,
+        "russianFilmCritics": 12,
+        "await": 15
+      },
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/535341.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_535341.jpg"
+      }
+    },
+    {
+      "id": 4886,
+      "name": "Я, робот",
+      "ageRating": 12,
+      "countries": [
+        {
+          "name": "США"
+        },
+        {
+          "name": "Германия"
+        }
+      ],
+      "description": "Действие фильма происходит в будущем (2035 г.), где роботы являются обычными помощниками человека. Главный герой – полицейский, «не переваривающий» роботов, расследует дело об убийстве, в которое оказывается вовлечен робот.\n\nРечь идет о возможном нарушении «Закона о Роботах» (робот никогда не поднимет руки на человека), что в принципе невозможно. Ситуация близка к катастрофической: если машины могут нарушать этот закон, то уже ничто не остановит их от захвата контроля над людьми, тем более, что человечество уже давно стало полностью зависимо от роботов…",
+      "movieLength": 115,
+      "budget": {
+        "value": 120000000,
+        "currency": "$"
+      },
+      "genres": [
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "триллер"
+        },
+        {
+          "name": "детектив"
+        }
+      ],
+      "persons": [
+        [
+          {
+            "id": 513,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_513.jpg",
+            "name": "Уилл Смит"
+          },
+          {
+            "id": 10495,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_10495.jpg",
+            "name": "Бриджет Мойнэхэн"
+          },
+          {
+            "id": 10102,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_10102.jpg",
+            "name": "Алан Тьюдик"
+          },
+          {
+            "id": 20664,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_20664.jpg",
+            "name": "Джеймс Кромуэлл"
+          },
+          {
+            "id": 7166,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_7166.jpg",
+            "name": "Брюс Гринвуд"
+          },
+          {
+            "id": 7040,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_7040.jpg",
+            "name": "Чи МакБрайд"
+          }
+        ],
+        [
+          {
+            "id": 608128,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_608128.jpg",
+            "name": "Марко Белтрами"
+          }
+        ],
+        [],
+        [
+          {
+            "id": 43959,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_43959.jpg",
+            "name": "Алекс Пройас"
+          }
+        ]
+      ],
+      "premiere": {
+        "world": "2004-07-07T00:00:00.000Z",
+        "russia": "2004-08-05T00:00:00.000Z"
+      },
+      "rating": {
+        "kp": 7.832,
+        "imdb": 7.1,
+        "filmCritics": 6.1,
+        "russianFilmCritics": 0,
+        "await": null
+      },
+      "year": 2004,
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/embed/ry1N9lrzt7A",
+            "name": "15th Anniversary Trailer",
+            "site": "youtube",
+            "type": "TRAILER"
+          },
+          {
+            "url": "https://www.youtube.com/embed/J1NZJXo-Lso",
+            "name": "I, Robot (2004) Trailer",
+            "site": "youtube",
+            "type": "TRAILER"
+          },
+          {
+            "url": "https://www.youtube.com/embed/eChMg8721FA",
+            "name": "Я, робот (2004) — русский трейлер",
+            "site": "youtube",
+            "type": "TRAILER"
+          }
+        ],
+        "teasers": []
+      },
+      "votes": {
+        "kp": 416665,
+        "imdb": 552930,
+        "filmCritics": 225,
+        "russianFilmCritics": 0,
+        "await": 0
+      },
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/4886.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_4886.jpg"
+      }
+    },
+    {
+      "id": 444,
+      "name": "Терминатор 2: Судный день",
+      "ageRating": 18,
+      "countries": [
+        {
+          "name": "США"
+        }
+      ],
+      "description": "Прошло более десяти лет с тех пор, как киборг из 2029 года пытался уничтожить Сару Коннор — женщину, чей будущий сын выиграет войну человечества против машин.\n\nТеперь у Сары родился сын Джон и время, когда он поведёт за собой выживших людей на борьбу с машинами, неумолимо приближается. Именно в этот момент из постапокалиптического будущего прибывает новый терминатор — практически неуязвимая модель T-1000, способная принимать любое обличье. Цель нового терминатора уже не Сара, а уничтожение молодого Джона Коннора.\n\nОднако шансы Джона на спасение существенно повышаются, когда на помощь приходит перепрограммированный сопротивлением терминатор предыдущего поколения. Оба киборга вступают в смертельный бой, от исхода которого зависит судьба человечества.",
+      "movieLength": 137,
+      "budget": {
+        "value": 102000000,
+        "currency": "$"
+      },
+      "genres": [
+        {
+          "name": "фантастика"
+        },
+        {
+          "name": "боевик"
+        },
+        {
+          "name": "триллер"
+        }
+      ],
+      "persons": [
+        [
+          {
+            "id": 6264,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_6264.jpg",
+            "name": "Арнольд Шварценеггер"
+          },
+          {
+            "id": 28012,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_28012.jpg",
+            "name": "Линда Хэмилтон"
+          },
+          {
+            "id": 9275,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_9275.jpg",
+            "name": "Эдвард Ферлонг"
+          },
+          {
+            "id": 14678,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_14678.jpg",
+            "name": "Роберт Патрик"
+          },
+          {
+            "id": 30221,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_30221.jpg",
+            "name": "Эрл Боэн"
+          },
+          {
+            "id": 523,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_523.jpg",
+            "name": "Джо Мортон"
+          }
+        ],
+        [
+          {
+            "id": 608126,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_608126.jpg",
+            "name": "Брэд Фидель"
+          }
+        ],
+        [],
+        [
+          {
+            "id": 27977,
+            "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_27977.jpg",
+            "name": "Джеймс Кэмерон"
+          }
+        ]
+      ],
+      "premiere": {
+        "world": "1991-07-01T00:00:00.000Z",
+        "russia": "1994-01-01T00:00:00.000Z"
+      },
+      "rating": {
+        "kp": 8.339,
+        "imdb": 8.6,
+        "filmCritics": 8.5,
+        "russianFilmCritics": 100,
+        "await": null
+      },
+      "year": 1991,
+      "videos": {
+        "trailers": [
+          {
+            "url": "https://www.youtube.com/embed/2aCC9F8cGCc",
+            "name": "3D Rerelease UK Trailer",
+            "site": "youtube",
+            "type": "TRAILER"
+          },
+          {
+            "url": "https://www.youtube.com/embed/VVZQ39i5G1s",
+            "name": "Terminator 2: Judgment Day 3D Trailer #2 (2017) | Movieclips Trailers",
+            "site": "youtube",
+            "type": "TRAILER"
+          },
+          {
+            "url": "https://www.youtube.com/embed/lwSysg9o7wE",
+            "name": "TERMINATOR 2 - New Trailer -  Official (2015)",
+            "site": "youtube",
+            "type": "TRAILER"
+          },
+          {
+            "url": "https://www.youtube.com/embed/Zl7zwFaqQA0",
+            "name": "Terminator 2: Judgment Day (1991) - Trailer #2 HD 1080p",
+            "site": "youtube",
+            "type": "TRAILER"
+          },
+          {
+            "url": "https://www.youtube.com/embed/Zl7zwFaqQA0",
+            "name": "Terminator 2: Judgment Day (1991) - Trailer #2 HD 1080p",
+            "site": "youtube",
+            "type": "TRAILER"
+          }
+        ],
+        "teasers": []
+      },
+      "votes": {
+        "kp": 451951,
+        "imdb": 1119152,
+        "filmCritics": 84,
+        "russianFilmCritics": 6,
+        "await": 0
+      },
+      "poster": {
+        "url": "https://st.kp.yandex.net/images/film_big/444.jpg",
+        "previewUrl": "https://st.kp.yandex.net/images/film_iphone/iphone360_444.jpg"
+      }
+    }
+  ]
+}
